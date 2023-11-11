@@ -1,0 +1,46 @@
+* {
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    margin: 50px;
+    padding: 140px;
+}
+
+.table {
+    width: 100%;
+
+}
+
+table tr th {
+    margin: 50px;
+    text-align: center;
+}
+
+table tr td {
+    text-align: left;
+}
+
+table,
+th,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-color: rgb(234, 167, 42);
+}
+
+th{
+    height: 50px;
+    background-color: rgb(171, 167, 167);
+    font-size: 20px;
+    margin: 20px;
+    padding: 25px;
+}
+
+td{
+    margin: 15px;
+    padding: 20px;
+}
+
